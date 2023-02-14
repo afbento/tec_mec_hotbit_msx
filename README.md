@@ -2,6 +2,8 @@
 
 Aqui mostro detalhes da adaptação de teclado de membrama para teclado com switches de teclado mecânico, feita para o microcomputador Hotbit HB-8000 (padrão MSX).
 
+![image](photos/demonstracao.JPG)
+
 ## Apresentação
 
 ineficácia do teclado original (membrana). moda e desejo de muitos de um teclado mecânico pro Hotbit. compatibilidade quase ideal das teclas originais com switches (dust proof)
