@@ -20,6 +20,8 @@ idealização de um gabarito impresso em 3D que encaixa nos furos das teclas da 
 
 usar o gabarito traçando os limites do furo, utilizar "faca quente" pra corte grosseiro e lima para refinar o corte. uso de adaptador impresso em 3D nas teclas que usam estabilizadores e substituição parcial dos estabilizadores de plástico por de metal, com 2mm a mais de comprimento pra não interferir no movimento das switches. circuito "handwire" feito por questão de economia.
 
+![image](photos/filme_faca_quente.gif)
+
 ## Soluções para alguns defeitos
 
 lixar partes das teclas que não precisam que adaptadoção no encaixe com switches. para evitar "prender" teclas
