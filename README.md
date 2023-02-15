@@ -8,8 +8,14 @@ Aqui mostro detalhes da adaptação de teclado de membrama para teclado com swit
 
 ineficácia do teclado original (membrana). moda e desejo de muitos de um teclado mecânico pro Hotbit. compatibilidade quase ideal das teclas originais com switches (dust proof)
 
-![image](photos/comparativ.JPG)
-![image](photos/original_1.JPG) ![image](photos/original_2.JPG) 
+![image](photos/comparativ.JPG) Comparando o Hotbit com um teclado mecânico, doador das switches para esse projeto
+
+![image](photos/original_1.JPG) 
+![image](photos/original_2.JPG) Membrana e PCB originais do Hotbit
+
+![image](photos/base_original.JPG) Medindo a base original do teclado com paquímetro e no "olhômetro".
+
+![image](photos/outemu_blue.JPG) Switch Outemu Blue dust-proof
 
 ## Estudos
 
