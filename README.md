@@ -13,17 +13,26 @@ ineficácia do teclado original (membrana). moda e desejo de muitos de um teclad
 ![image](photos/original_1.JPG) 
 ![image](photos/original_2.JPG) Membrana e PCB originais do Hotbit
 
-![image](photos/base_original.JPG) Medindo a base original do teclado com paquímetro e no "olhômetro".
 
-![image](photos/outemu_blue.JPG) Switch Outemu Blue dust-proof
 
 ## Estudos
 
 medidas e desenhgo feito em CAD como esboço pra possível corte em CNC, foi concluído um alto custo da confecção da base do teclado por esse método. além da confecção de PCB personalizada
 
+![image](photos/tecla_sem_estab.JPG) Encaixe de tecla que não usa estabilizador
+
+![image](photos/base_original_m.JPG) Medindo a base original do teclado com paquímetro e no "olhômetro".
+
+![image](photos/outemu_blue.JPG) Switch Outemu Blue dust-proof
+
+![image](photos/carcaça.JPG) Carcaça do Hotbit junto com esboço feito com posição aproximada do centro de cada tecla
+
 ## Solução mais barata
 
 idealização de um gabarito impresso em 3D que encaixa nos furos das teclas da base original do teclado do Hotbit, para execução de furos quadrados de 14mm x 14mm de maneira artesanal
+
+![image](photos/gab_papel.JPG) Gabarito para traçar o furo quadrado em cada tecla, feito em papel (não foi utilizado)
+
 
 ## Procedimento
 
