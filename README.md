@@ -75,7 +75,7 @@ Detalhe de ajuste feito nas tecla com estabilizador.
 ![image](photos/furos_1.JPG) Falta o último furo.
 
 ![image](photos/tecla_estab_quebr.JPG)
-![image](photos/detalhe_tecla_estab.JPG) Dica Rápida: tirando pedaço de estabilizador quebraço com auxílio de uma broca de 0,8mm e uma "chavinha de relojoeiro"
+![image](photos/detalhe_tecla_estab.JPG) Dica rápida: tirando pedaço de estabilizador quebrado com auxílio de uma broca de 0,8mm e uma "chavinha de relojoeiro"
 
 ![image](photos/ninho_de_Rato_8.JPG) Começando o circuito "handwired"... pra que gastar mandando fazer uma PCB num projeto artesanal??? :)
 
