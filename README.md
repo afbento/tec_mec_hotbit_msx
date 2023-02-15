@@ -19,7 +19,7 @@ Membrana e PCB originais do Hotbit.
 
 ## Estudos
 
-medidas e desenhgo feito em CAD como esboço pra possível corte em CNC, foi concluído um alto custo da confecção da base do teclado por esse método. além da confecção de PCB personalizada
+medidas e desenho feito em CAD como esboço pra possível corte em CNC, foi concluído um alto custo da confecção da base do teclado por esse método. além da confecção de PCB personalizada
 
 ![image](photos/tecla_sem_estab.JPG) Encaixe de tecla que não usa estabilizador
 
@@ -88,7 +88,7 @@ Detalhe de ajuste feito nas tecla com estabilizador.
 
 ## Soluções para alguns defeitos
 
-lixar partes das teclas que não precisam que adaptadoção no encaixe com switches. para evitar "prender" teclas
+lixar partes das teclas que não precisam que adaptação no encaixe com switches. para evitar "prender" teclas
 
 ## Como tornar o processo mais "profissional"
 
