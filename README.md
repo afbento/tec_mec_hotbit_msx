@@ -52,6 +52,8 @@ usar o gabarito traçando os limites do furo, utilizar "faca quente" pra corte g
 
 ![image](photos/primeiro_furo.JPG) Primeiro furo feito.
 
+![image](photos/peq_ajudante.JPG) Uma fileira de teclas foi feita... Verificando se ficou muito torto em relacao à carcaça com a minha pequena ajudante. :)
+
 ![image](photos/1_gabarito.JPG) Encaixando o gabarito no furo.
 
 ![image](photos/2_desenhando.JPG) 
