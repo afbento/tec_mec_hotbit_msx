@@ -81,7 +81,7 @@ Detalhe de ajuste feito nas tecla com estabilizador.
 
 ![image](photos/ninho_de_Rato_4.JPG) Falta metade... isso foi mais agradável de fazer do que cortar plástico.
 
-![image](photos/ninho_de_rato_3.JPG) Matrix pronta. Falta prender o conector à base plastica, colocar também o conector da chave do slot e os leds.
+![image](photos/ninho_de_rato_3.JPG) Matriz pronta. Falta prender o conector à base plastica, colocar também o conector da chave do slot e os leds.
 
 ![image](photos/ninho_de_rato_2.JPG) PRONTO!!! quer dizer... falta os esbilizadores das barra de espaço, return e cursor direto / esquerdo.
 
