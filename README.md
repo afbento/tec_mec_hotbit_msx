@@ -96,5 +96,9 @@ lixar partes das teclas que não precisam que adaptação no encaixe com switche
 
 projeto de base nova em metal com furos cortados de maneira automatizada, e da PCB nova com soquetes "hotswap" para as switches
 
+![image](photos/esquema.png)
+![image](photos/pcb.png)
+Esquema e PCB provisórios, feitos no EasyEDA.
+
 ![image](photos/work_prog.GIF)
 
